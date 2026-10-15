@@ -17,4 +17,4 @@ make run SRC=semaine-01/ch02/pun.c
 
 ## Layout
 
-One folder per week, one subfolder per chapter. The roadmap is in `docs/roadmap.md`.
+One folder per week, one subfolder per chapter.
